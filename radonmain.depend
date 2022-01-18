@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1639401814 source:c:\users\hp\desktop\codes\radonmain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"common.h"
+	"chunk.h"
+	"debug.h"
+	"vm.h"
+
+1639152542 c:\users\hp\desktop\codes\radonmain\common.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+
+1638635050 source:c:\users\hp\desktop\codes\radonmain\chunk.c
+	<stdlib.h>
+	"chunk.h"
+	"memory.h"
+	"value.h"
+
+1638869759 c:\users\hp\desktop\codes\radonmain\chunk.h
+	"common.h"
+	"value.h"
+
+1638799884 c:\users\hp\desktop\codes\radonmain\memory.h
+	"common.h"
+
+1638799884 source:c:\users\hp\desktop\codes\radonmain\memory.c
+	<stdlib.h>
+	"memory.h"
+
+1638633388 c:\users\hp\desktop\codes\radonmain\debug.h
+	"chunk.h"
+
+1638891417 source:c:\users\hp\desktop\codes\radonmain\debug.c
+	<stdio.h>
+	"debug.h"
+	"value.h"
+
+1638624403 c:\users\hp\desktop\codes\radonmain\value.h
+	"common.h"
+
+1638634896 source:c:\users\hp\desktop\codes\radonmain\value.c
+	<stdio.h>
+	"memory.h"
+	"value.h"
+
+1638977895 c:\users\hp\desktop\codes\radonmain\vm.h
+	"chunk.h"
+	"value.h"
+
+1639402721 source:c:\users\hp\desktop\codes\radonmain\vm.c
+	<stdio.h>
+	"common.h"
+	"debug.h"
+	"vm.h"
+	"compiler.h"
+
+1638967664 source:c:\users\hp\desktop\codes\radonmain\sample.c
+	<stdio.h>
+
+1639127522 c:\users\hp\desktop\codes\radonmain\compiler.h
+	"vm.h"
+
+1639409329 source:c:\users\hp\desktop\codes\radonmain\scanner.c
+	<stdio.h>
+	<string.h>
+	"common.h"
+	"scanner.h"
+
+1638980067 c:\users\hp\desktop\codes\radonmain\scanner.h
+
+1639411006 source:c:\users\hp\desktop\codes\radonmain\compiler.c
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"compiler.h"
+	"scanner.h"
+	"debug.h"
+
