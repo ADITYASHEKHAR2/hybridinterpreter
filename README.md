@@ -13,3 +13,7 @@ ANOTHER NOTE :
            It has it's seperate preferential order of mathematical operations. 
            If this code doesn't work on your IDE than try running this code in codeblockcs .
            As i have written this in codeblocks IDE i don't have more time trying on every single IDE that is present 
+
+
+For now I have written this compiler in c language not because i know c very well but c++ is very complex for me to write this compiler
+(trust me you will also find it a little intimidating at times)
