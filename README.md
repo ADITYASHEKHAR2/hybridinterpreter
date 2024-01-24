@@ -1,5 +1,5 @@
 # Compiler
-This is an sample compiler for simple calculations don't laugh at this 
+This is an sample compiler for simple calculations . 
 
 
 Look i know iam not a big deal (atleast for now) and i know this compiler only does basic mathematical operations. 
